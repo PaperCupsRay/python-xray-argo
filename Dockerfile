@@ -1,4 +1,4 @@
-FROM ghcr.io/eooce/python:latest
+FROM python:3.10-alpine
 
 WORKDIR /app
 
